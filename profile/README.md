@@ -1,1 +1,1 @@
-# Lovelace Engineering ![logo]([../images/logo.png](https://raw.githubusercontent.com/LovelaceEngineering/.github/main/images/logo.png))
+# Lovelace Engineering ![logo](https://raw.githubusercontent.com/LovelaceEngineering/.github/main/images/logo.png)
